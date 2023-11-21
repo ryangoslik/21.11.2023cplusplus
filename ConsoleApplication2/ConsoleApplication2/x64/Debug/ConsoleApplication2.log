@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(7,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(10,22): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(10,22): warning C4302: "typ rzutowania": obcięcie z "float *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,26): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,26): warning C4302: "typ rzutowania": obcięcie z "float *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,23): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float **" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,23): warning C4302: "typ rzutowania": obcięcie z "float **" do "int"
+  ConsoleApplication2.vcxproj -> C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

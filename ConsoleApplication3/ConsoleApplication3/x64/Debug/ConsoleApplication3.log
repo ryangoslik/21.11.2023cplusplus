@@ -1,0 +1,8 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(11,22): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(11,22): warning C4302: "typ rzutowania": obcięcie z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,26): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,26): warning C4302: "typ rzutowania": obcięcie z "std::string *" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(15,23): warning C4311: "typ rzutowania": obcięcie wskaźnika z "std::string **" do "int"
+C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(15,23): warning C4302: "typ rzutowania": obcięcie z "std::string **" do "int"
+  ConsoleApplication3.vcxproj -> C:\Users\Programista\Desktop\21.11.2023cplusplus\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
